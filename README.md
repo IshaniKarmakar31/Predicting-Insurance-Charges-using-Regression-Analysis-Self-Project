@@ -1,0 +1,2 @@
+# Predicting-Insurance-Charges-using-Regression-Analysis-Self-Project
+Performed EDA and analysed the data for heteroscedasticity, autocorrelation, outliers and non-normality of errors; Checked for multicollinearity using VIF technique, conditional indices and addressed it using PCA and ridge regression; Acquired suitable subset of predictors using variable selection methods based on adjusted R2; multiple R2 being 75.09%
